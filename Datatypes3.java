@@ -1,4 +1,4 @@
-package Day1;
+
 public class Datatypes3 {
     public static void main(String[] args) {
         String x="21";
